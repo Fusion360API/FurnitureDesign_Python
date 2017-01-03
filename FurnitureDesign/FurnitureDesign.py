@@ -4,7 +4,7 @@
 import adsk.core, adsk.fusion, adsk.cam, traceback
 
 # Dimensions for wardrobe
-# unit is mm
+# unit is cm
 HeightOfWardrobe = 240
 WidthOfWardrobe = 200
 DepthOfOuterwall = 60
